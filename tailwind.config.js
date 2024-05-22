@@ -39,8 +39,8 @@ module.exports = {
                     400: colors.neutral[400],
                     500: colors.neutral[500],
                     600: colors.neutral[600],
-                    700: '#17171B',
-                    800: '#212121',
+                    700: '#222338',
+                    800: '#1b1c30',
                     900: '#121212',
                 }
             },
